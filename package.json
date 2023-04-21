@@ -1,0 +1,22 @@
+{
+  "name": "wrp_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ByteBot73/WRP_BOT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ByteBot73/WRP_BOT/issues"
+  },
+  "homepage": "https://github.com/ByteBot73/WRP_BOT#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  }
+}
